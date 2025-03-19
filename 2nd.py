@@ -6,7 +6,15 @@ height = 5
 rectangle_area = width*height
 print('사각형의 면적:' , rectangle_area)
 
-sum=100
 lst=[10, 20, 30]
 total=sum(lst)
 print(total)
+
+num=85
+type(num)
+
+pi=3.14159
+type(pi)
+
+message="Good mornig"
+type(message)
